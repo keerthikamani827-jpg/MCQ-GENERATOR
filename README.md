@@ -303,5 +303,3 @@ The API key should never be included directly in the source code or publicly sha
 ## Conclusion
 
 The AI MCQ Generator demonstrates how artificial intelligence can be used to automate quiz creation and support interactive learning. By combining a language model with text processing, question validation, and a Streamlit interface, the application provides an easy way to generate and practice multiple-choice questions from different topics and study materials.
-
-## Author
